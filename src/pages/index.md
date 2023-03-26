@@ -1,123 +1,111 @@
 ---
 layout: ../layouts/About.astro
-name: Xiaohan Zou
-subname: 邹笑寒
+name: Ryan M. Daley
+subname: Welcome
 avatar: img/avatar.jpg
 socials:
   - icon: i-academicons:cv
-    link: /files/cv/en.pdf
+    link: /files/cv/cv.pdf
   - icon: "i-ion:mail-outline"
-    link: "mailto:renovamenzxh@gmail.com"
+    link: "mailto:ryandaley74@gmail.com"
   - icon: i-eva:github-outline
-    link: https://github.com/Renovamen
+    link: https://github.com/Ryan-Daley
   - icon: i-radix-icons:linkedin-logo
-    link: https://www.linkedin.com/in/xiaohan-zou
-  - icon: i-academicons:google-scholar
-    link: https://scholar.google.com/citations?user=RuW6xgMAAAAJ
-  - icon: i-ri:twitter-fill
-    link: https://www.twitter.com/renovamen_zxh
-  - icon: i-ant-design:zhihu-outlined
-    link: https://www.zhihu.com/people/chao-neng-gui-su
+    link: https://www.linkedin.com/in/ryandaley74/
   - icon: i-ri:game-line
-    link: https://portfolio.zxh.io
+    link: https://ryan-daley.github.io/portfolio.github.io/
     name: Portfolio
 ---
 
-Xiaohan's current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. She is also interested in vision-language and video models.
+Welcome to my data analysis portfolio! My name is Ryan and I'm an Applied Data Science graduate with a passion for turning data into actionable insights. On this website, you'll find examples of my work in data visualization, statistical analysis, and machine learning. I am always looking for new opportunities to use my skills to make an impact, so please don't hesitate to contact me if you have any questions or would like to discuss a potential project. Thank you for visiting!
 
-Previously, she received her master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/). She was fortunate to work with Prof. [Bryan Plummer](https://bryanplummer.com/) (BU) on continual learning and parameter sharing, Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm) (PKU) on continual learning and machine translation, and Prof. [Qinpei Zhao](https://dblp.org/pid/22/6705.html) (Tongji) on image aesthetic captioning.
+Previously, I received my master's degree in [Applied Data Science](https://www.essex.ac.uk/courses/pg01389/1/msc-applied-data-science) at the [University of Essex](https://www.essex.ac.uk/) and bachelor's degree in [International Relations & Politics](https://www.port.ac.uk/study/courses/undergraduate/ba-hons-international-relations-and-politics) at the [University of Portsmouth](https://www.port.ac.uk/).
 
-[Curriculum Vitae](/files/cv/en.pdf) / renovamenzxh@gmail.com
+[Curriculum Vitae](/files/cv/cv.pdf) / ryandaley74@gmail.com
 
 
 ## Education
 
 |                                                                                                                       |           |
 | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| **M.S. in Computer Science**, Boston University                                                                       | 2021-2023 |
-| **B.Eng. in Software Engineering**, Tongji University <p>Thesis: _Food Image Aesthetic Assessment and Captioning_</p> | 2016-2020 |
+| **M.S. in Data Science**, University of Essex                                                                           | 2022-2023 |
+| **B.A in International Relations & Politics**, University of Essex <p>Thesis: A Case of Chinese Imperialism? Classical Realism and the Ideational and Material Factors Driving China’s Grand Strategy</p> | 2017-2021 |
 
 
-## Publications
+## Data Science Projects
 
-:::paper[/img/about/tokenflow-1.png /img/about/tokenflow-2.png]
-**TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval**
+:::paper[/img/about/affairs.png]
+**Fairs Affairs: A Statistical Analysis of Ray Fairs Extramarital Affairs Dataset**
 
-<u>Xiaohan Zou</u>, Changqiao Wu, Lele Cheng, and Zhongyuan Wang
+<u> Ryan Daley </u>
 
-Preprint, 2022
+Coursework, 2022
 
-[paper](http://arxiv.org/abs/2209.13822)
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Extramarital-Affairs/main/A%20Statistical%20Analysis%20of%20Fair's%20Affairs.pdf) /
+[Github](https://github.com/Ryan-Daley/Extramarital-Affairs)
 :::
 
-:::paper
-**Efficient Meta-Learning for Continual Learning with Taylor Expansion Approximation**
+:::paper[/img/about/housing.png]
+**House Market Analysis: Analysing Boston Housing Dataset in R**
 
-<u>Xiaohan Zou</u>, and Tong Lin
+<u>Ryan Daley </u>
 
-International Joint Conference on Neural Networks (IJCNN), 2022
+Coursework, 2022
 
-**Oral Presentation**
-
-[paper](https://arxiv.org/abs/2210.00713) / [slide](/files/papers/ijcnn2022/slide.pdf)
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf) / [Github](https://github.com/Ryan-Daley/House-Price-Determinants)
 :::
 
-:::paper[/img/about/ictai2020.png]
-**To be an Artist: Automatic Generation on Food Image Aesthetic Captioning**
+:::paper[/img/about/tedtalks.png]
+**Ted Talks Analysis: Text Analytics with R**
 
-<u>Xiaohan Zou</u>, Cheng Lin, Yinjia Zhang, and Qinpei Zhao
+<u>Ryan Daley</u>
 
-International Conference on Tools with Artificial Intelligence (ICTAI), 2020
+Coursework, 2022
 
-**Oral Presentation**
-
-[paper](https://ieeexplore.ieee.org/document/9288208) / [code](https://github.com/Renovamen/Food-IAC) / [slide](/files/papers/ictai2020/slide.pdf)
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Text-Analytics-With-R/main/MA331%20-%20Midterm%20Project.pdf) / [Github](https://github.com/Ryan-Daley/Text-Analytics-With-R)
 :::
 
-:::paper
-**A Survey on Application of Knowledge Graph**
+:::paper[/img/about/goodcop.png]
+**Good Cop, Bad Cop: Analysing the Centre For Policing Equity Dataset**
 
-<u>Xiaohan Zou</u>
+<u>Ryan Daley</u>
 
-International Conference on Control Engineering and Artificial Intelligence (CCEAI), 2020
+Coursework, 2022
 
-[paper](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf)
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Good-Cop-Bad-Cop/main/MA304%20-%20EDA%20of%20CPE%20data.pdf) / [Github](https://github.com/Ryan-Daley/Good-Cop-Bad-Cop)
 :::
 
+:::paper[/img/about/federatelearning.png]
+**Data-Poising Attacks Against Federated Learning Systems: A Review**
 
-## Experience
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf) / [Github]()
+:::
+
+## Essays on International Relations & Politics
 
 |                                                                                                                                                             |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Machine Learning Engineer Intern**, _[Kuaishou](https://www.kuaishou.com/en)_, Beijing, China                                                             | 2021–2022 |
-| **Research Intern**, _[Peking University](https://english.pku.edu.cn/)_, Beijing, China (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2020–2022 |
-| **Software Engineer Intern**, _China Electronics Technology Group Corporation_                                                                              | 2020–2021 |
-| **Game Engineer Intern**, _[Banana Interactive](https://banana.games/)_, Shanghai, China                                                                    | 2019–2020 |
-| **Research Intern**, _[Peking University](https://english.pku.edu.cn/)_, Beijing, China (with Prof. [Tong Lin](http://www.cis.pku.edu.cn/jzyg/szdw/lt.htm)) | 2018      |
-
-
-## Talks
-
-- [Meta / Few-shot Learning](/files/talks/2021-08-meta-learning.pdf), Kuaishou, 08/2021
-- [Continual Learning: Meta Continual Learning & Task Free Settings](/files/talks/2020-08-continual-learning.pdf), Peking University, 08/2020
+| [**Belt & Road Initiative - Literature Review**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/Belt%20%26%20Road%20Initiative%20Literature%20Review.pdf)                                                    | 2021 |
+| [**Examining How China’s Authoritarian System Sustains Itself**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/Autocracy%20%26%20Democracy%20-%20How%20Does%20Chinas%20Authoritarian%20System%20Sustain%20Itself.pdf)          | 2021|
+| [**How Has the Nature of Security Changed In the 21st Century?**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/21st%20Century%20Security%20Challenges%20-%20How%20Has%20the%20Nature%20of%20Security%20Changed%20In%20the%2021st%20Century.pdf)                                                                                                             | 2021 |
+| [**How Far Does Neoliberalism Constitute A Distinct and Coherent Political Ideology?**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/Ideology%20%26%20Politics%20-%20How%20far%20does%20neoliberalism%20constitute%20a%20distinct%20and%20coherent%20political%20ideology.pdf)                                                                                                           | 2021 |
+| [**What Is Meant By Ideology?**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/Ideology%20%26%20Politics%20-%20What%20Is%20Meant%20By%20Ideology%20-%20FINAL.pdf) | 2021 |
+| [**New Humanitariansim Under Fire - Article Review**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/NGOs%20%26%20Social%20Movements%20-%20Article%20Review.pdf)                                                     | 2021 |
+| [**To What Extent Are NGO Self Regulation Initiatives Effective?**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/NGOs%20%26%20Social%20Movements%20-%20To%20What%20Extent%20Are%20NGO%20Self-Regulation%20Initiatives%20Effective.pdf)  | 2021 |
 
 
 ## Miscellaneous
 
-- 🚀 This [personal website](https://github.com/Renovamen/renovamen.github.io) is built with [Astro](https://astro.build/), [Solid](https://www.solidjs.com/) and [UnoCSS](https://github.com/antfu/unocss)
+- 🚀 A more interesting version of my CV/portfolio [exists here](https://ryan-daley.github.io/portfolio.github.io/) - PLEASE NOTE it is not optimised for mobile/small screens. While it will work, for best viewing experience use a Laptop/Ipad size screen!
 
-- 🧐 Here are two "interesting" versions of my portfolio/cv: [portfolio.zxh.io](https://portfolio.zxh.io/), [resume.zxh.io](https://resume.zxh.io/)
+- 🖥 New MacOS convert
 
-- 🎃 _Renovamen_ is a Latin word means _renewal_
+- 🕹️ Currently interested in getting to grips with large language models and NLP as a whole
 
-- 🖥 Ex-OIer/ACMer
-
-- 🛠 Like to contribute to open-source machine learning and frontend projects in spare time
-
-- 🥎 Used to be a member of the softball team of Tongji University
+- 🎹 I'm always playing piano. My favourite classical composer has to be Chopin. [Check this piece out!](https://www.youtube.com/watch?v=pHlqEvAwdVc) 
 
 - 🌭 My dream: `while(sleeping){money++;}`
-
-- 🕹️ Currently interested in constructing buildings in Minecraft
-
-- 📜 大概率更新不及时的[中文简历](/files/cv/cn.pdf)
