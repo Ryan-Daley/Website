@@ -2,7 +2,7 @@
 layout: ../layouts/About.astro
 name: Ryan M. Daley
 subname: Welcome
-avatar: img/avatar.jpg
+avatar: img/avatar.png
 socials:
   - icon: i-academicons:cv
     link: /files/cv/cv.pdf
