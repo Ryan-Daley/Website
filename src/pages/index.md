@@ -100,11 +100,11 @@ Coursework, 2022
 
 ## Miscellaneous
 
-- 🚀 A more interesting version of my CV/portfolio [exists here](https://ryan-daley.github.io/portfolio.github.io/) - PLEASE NOTE it is not optimised for mobile/small screens. While it will work, for best viewing experience use a Laptop/Ipad size screen!
+- 🚀 A more interesting version of my CV/portfolio [exists here](https://ryan-daley.github.io/portfolio.github.io/) - Please note it is not optimised for mobile. While it will work, for best viewing experience use a computer/Ipad size screen!
 
 - 🖥 New MacOS convert
 
-- 🕹️ Currently interested in getting to grips with large language models and NLP as a whole
+- 🕹️ Currently getting to grips with large language models and NLP as a whole
 
 - 🎹 I'm always playing piano. My favourite classical composer has to be Chopin. [Check this piece out!](https://www.youtube.com/watch?v=pHlqEvAwdVc) 
 
