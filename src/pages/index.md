@@ -13,7 +13,7 @@ socials:
   - icon: i-radix-icons:linkedin-logo
     link: https://www.linkedin.com/in/ryandaley74/
   - icon: i-ri:game-line
-    link: https://ryan-daley.github.io/portfolio.github.io/
+    link: https://ryan-daley.github.io/MacOS-Website/
     name: Portfolio
 ---
 
@@ -100,7 +100,7 @@ Coursework, 2022
 
 ## Miscellaneous
 
-- 🚀 A more interesting version of my CV/portfolio [exists here](https://ryan-daley.github.io/portfolio.github.io/) - Please note it is not optimised for mobile. While it will work, for best viewing experience use a computer/Ipad size screen!
+- 🚀 A more interesting version of my CV/portfolio exists [HERE](https://ryan-daley.github.io/MacOS-Website) - Please note it is not optimised for mobile. While it will work, for best viewing experience use a computer/Ipad size screen!
 
 - 🖥 New MacOS convert
 
