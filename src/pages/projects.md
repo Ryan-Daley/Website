@@ -2,6 +2,13 @@
 layout: ../layouts/Projects.astro
 projects:
   Machine Learning (Python):
+    - name: Brain Tumor Image Segmentation
+      link:
+      desc: Using a U-Net convolutional neural network (CNN) to segment brain tumor images
+      icon: i-bi-brain
+      tech:
+        - i-logos:python
+        - i-logos:pytorch-icon
     - name: Amazon Reviews - Sentiment Analysis
       link: https://github.com/Renovamen/flint
       desc: Using Artificial Neural Networks (ANN's) to predict the sentiment of Amazon reviews
