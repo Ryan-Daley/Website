@@ -34,6 +34,16 @@ Previously, I received my master's degree in [Applied Data Science](https://www.
 
 ## Data Science Projects
 
+:::paper[/img/about/amazon.png]
+**Amazon Reviews Sentiment Analysis: A Natural Language Processing Project**
+
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Amazon-Reviews-Sentiment-Analysis/main/Amazon%20Reviews%20Sentiment%20Analysis.pdf) / [Github]()
+
+
 :::paper[/img/about/affairs.png]
 **Fairs Affairs: A Statistical Analysis of Ray Fairs Extramarital Affairs Dataset**
 

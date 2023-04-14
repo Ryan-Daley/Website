@@ -5,7 +5,7 @@ projects:
     - name: Brain Tumor Image Segmentation
       link:
       desc: Using a U-Net convolutional neural network (CNN) to segment brain tumor images
-      icon: i-bi-brain
+      icon: i-file-icons-brainfuck
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
