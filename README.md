@@ -1,4 +1,4 @@
-# Personal Website, except its not working
+# Personal Website, might work now?
 
 Original Repo: https://github.com/Renovamen/renovamen.github.io
 
