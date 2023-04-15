@@ -34,6 +34,26 @@ Previously, I received my master's degree in [Applied Data Science](https://www.
 
 ## Data Science Projects
 
+:::paper[/img/about/braintumour.png]
+**Brain Tumour Image Segmentation: Developing and Training a Convolutional Neural Network (CNN) To Segment Brain Tumour Images**
+
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Brain-Tumour-Segmentation/main/Brain%20Tumour%20Segmentation.pdf) / [Github]()
+:::
+
+:::paper[/img/about/RecSys.png]
+**Netflix RecSys: A Movie Recommender System Project**
+
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Netflix-RecSys/main/Netflix%20RecSys.pdf) / [Github]()
+:::
+
 :::paper[/img/about/amazon.png]
 **Amazon Reviews Sentiment Analysis: A Natural Language Processing Project**
 
@@ -42,7 +62,17 @@ Previously, I received my master's degree in [Applied Data Science](https://www.
 Coursework, 2022
 
 [Full Project](https://raw.githubusercontent.com/Ryan-Daley/Amazon-Reviews-Sentiment-Analysis/main/Amazon%20Reviews%20Sentiment%20Analysis.pdf) / [Github]()
+:::
 
+:::paper[/img/about/titanic.png]
+**Titanic Survival Analysis: A Machine Learning Project**
+
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Titanic-Survival-Analysis/main/Titanic%20Survival%20Analysis.pdf) / [Github]()
+:::
 
 :::paper[/img/about/affairs.png]
 **Fairs Affairs: A Statistical Analysis of Ray Fairs Extramarital Affairs Dataset**
@@ -63,6 +93,16 @@ Coursework, 2022
 Coursework, 2022
 
 [Full Project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf) / [Github](https://github.com/Ryan-Daley/House-Price-Determinants)
+:::
+
+:::paper[/img/about/tsp.png]
+**Travelling Salesman Problem: Solving the TSP with search algorithms in Python**
+
+<u>Ryan Daley</u>
+
+Coursework, 2022
+
+[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Travelling-Salesman-Problem/main/Travelling%20Salesman%20Problem.pdf) / [Github]()
 :::
 
 :::paper[/img/about/tedtalks.png]
