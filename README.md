@@ -1,6 +1,9 @@
-# Personal Website, might work now?
+# The "Hire Me" Website
 
-Original Repo: https://github.com/Renovamen/renovamen.github.io
+Hosting my data science projects and International Relations essays
+
+
+Original repo credit to Xiohan Zou: https://github.com/Renovamen/renovamen.github.io
 
 &nbsp;
 
